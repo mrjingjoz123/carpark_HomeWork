@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyHomework</string>
+    <string name="license">License</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="slot1_button">slot1</string>
+    <string name="slot2_button">slot2</string>
+    <string name="slot3_button">slot3</string>
+    <string name="update_button">update</string>
+    <string name="delete_button">delete</string>
+
+</resources>
